@@ -1,5 +1,4 @@
 {
-TOKEN: "Nzg1MDkyNzk2NTMyOTE2MjM0.X8y0pQ.TuGnOVR84_ac_kT0R-jeJWt1XH0"
-YOUTUBE_API_KEY:"AIzaSyBJ9-xgfvzmF3iq6ee9L58ksSdcS0zAWOQ"
-PREFIX: "+"
+    "token": "Nzg1MDkyNzk2NTMyOTE2MjM0.X8y0pQ.TuGnOVR84_ac_kT0R-jeJWt1XH0",
+    "prefix": "+"
 }
